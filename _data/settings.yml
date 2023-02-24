@@ -1,0 +1,46 @@
+#-------------------------------
+# General Site Settings
+title: The Khanh Blog
+logo: khanhblog_logo_ver2.jpeg # You can add own logo.
+description: your description
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Khanh Duong
+  image: blog_head_fixed.jpg
+  say-hello: Hello, I'm <strong>Khanh Duong</strong>
+  bio: Xin chào bạn, tôi là Khanh, hiện tại tôi đang là nghiên cứu sinh tiến sĩ tại trường đại học Utah, Mỹ, chương trình Pharmacotherapy Outcome Research, chuyên về Health Economic and Outcome Research (thường gọi tắt là HEOR). Blog này là nơi tôi chia sẻ những trải nghiệm trong việc học tập, nghiên cứu, và cuộc sống ở Mỹ. Hy vọng thông qua đây, bạn sẽ hiểu thêm về những nghiên cứu trong lĩnh vực HEOR, và các trải nghiệm thú vị về Utah. Chúc bạn một ngày vui vẻ!
+
+
+
+#-------------------------------
+# Contact links
+twitter: twitter.com/KhanhNCDuong # Add your Twitter handle
+facebook: www.facebook.com/ngoccongkhanh.duong # Add your Facebook handle
+#linkedin: 
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+#instagram: https://instagram.com/ # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: Khanh Duong # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+#instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
