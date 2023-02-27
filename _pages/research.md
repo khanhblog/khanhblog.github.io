@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-category: blog
+
 ---
 
 # Research interest:
