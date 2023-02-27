@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
-image: 08.jpg
+permalink: /contact
+
 ---
 
 Contact information
